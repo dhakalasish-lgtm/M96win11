@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Win10Launcher"
-include(":app")
+include(":app") 
